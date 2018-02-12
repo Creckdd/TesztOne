@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class TesztScript : MonoBehaviour {
 
-	// Use this for initialization
 	void Start () {
 		
 	}
@@ -13,4 +12,8 @@ public class TesztScript : MonoBehaviour {
 	void Update () {
 		
 	}
+}
+
+public class UjoSztaly : TesztScript {
+
 }
